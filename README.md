@@ -32,8 +32,10 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233011-28615257-fc2b-4c81-852a-49722c948e07.png)
  
  
- ## SKETCH
- ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
+ ## INPUT
+ 
+ ![Screenshot 2025-01-08 080642](https://github.com/user-attachments/assets/e35319f6-6906-4158-ac31-96a2a0a323f1)
+
 
  ## OUTPUT
 ![Uploading Screenshot 2024-11-23 095024.png…]()
